@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushMQTT\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\PushMQTT\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushMQTT\\app\\build\\intermediates\\res\\merged\\release\\layout\\push_message.xml",
+        "source": "D:\\AndroidStudioProjects\\PushMQTT\\app\\src\\main\\res\\layout\\push_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushMQTT\\app\\build\\intermediates\\res\\merged\\release\\layout\\simple_list_item_1.xml",
+        "source": "D:\\AndroidStudioProjects\\PushMQTT\\app\\src\\main\\res\\layout\\simple_list_item_1.xml"
+    }
+]
